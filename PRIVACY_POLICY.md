@@ -33,7 +33,7 @@ We use the collected data to:
 ### 6. Your Rights and Controls
 *   **Edit/Delete Content:** You have the right to edit or delete any scholarship post you have created.
 *   **Profile Management:** You can update your GPA, Education, and Experience at any time.
-*   **Account Deletion:** You may request the permanent deletion of your account and all associated data by contacting our support team.
+*   **Account Deletion:** You may request the permanent deletion of your account and all associated data by contacting our support team **info@jabirulabs.com**.
 
 ### 7. Third-Party Services
 We integrate with the following services:
@@ -46,4 +46,4 @@ xScholr is intended for students and academic professionals. We do not knowingly
 ### 9. Contact Information
 For any questions regarding your privacy, please contact:  
 **Jabiru Labs Support**  
-**Email:** support@jabirulabs.com
+**Email:** info@jabirulabs.com
